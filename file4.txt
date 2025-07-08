@@ -1,2 +1,2 @@
-My first message for 070725
-4
+My second message for conflict of 070725
+2
